@@ -10,7 +10,7 @@ module.exports = {
       },
       colors: {
         'light-blue': 'rgb(206, 226, 233)',
-        'light-green': 'rgb(83, 255, 171)',
+        'neon-green': 'hsl(150, 100%, 66%)',
       },
       fontFamily: {
         manrope: ['Manrope', 'sans-serif'],
