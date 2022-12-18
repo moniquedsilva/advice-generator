@@ -4,12 +4,12 @@ module.exports = {
   theme: {
     extend: {
       backgroundColor: {
-        'light-blue': 'rgb(206, 226, 233)',
-        'gray-blue': 'rgb(49, 58, 73)',
-        'dark-blue': 'rgb(32, 38, 50)',
+        'light-blue': 'hsl(193, 38%, 86%)',
+        'gray-blue': 'hsl(217, 19%, 24%)',
+        'dark-blue': 'hsl(218, 23%, 16%)',
       },
       colors: {
-        'light-blue': 'rgb(206, 226, 233)',
+        'light-blue': 'hsl(193, 38%, 86%)',
         'neon-green': 'hsl(150, 100%, 66%)',
       },
       fontFamily: {
