@@ -1,5 +1,5 @@
 <template>
-  <article class="relative flex flex-col justify-center items-center gap-y-9 py-12 w-11/12 bg-gray-blue rounded-2xl font-manrope px-[32px] md:py-0 md:h-[332px] md:w-[540px]">
+  <article class="relative flex flex-col justify-center items-center gap-y-9 py-12 w-11/12 bg-gray-blue rounded-2xl font-manrope px-[32px] md:py-0 md:pb-5 md:h-[332px] md:w-[540px]">
       <h1 class="text-neon-green uppercase tracking-[0.4em] text-xs font-extrabold">Advice # {{ id }}</h1>
       <p class="text-[22px] text-center text-light-blue font-extrabold tracking-[0.02em] transition duration-300 ease-out opacity-0 md:text-[28px] md:leading-9" :class="{'opacity-100': advice}">"{{ advice }}"</p>
       <img src="/assets/pattern-divider-desktop.svg" alt="Pattern">
