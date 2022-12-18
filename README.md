@@ -1,24 +1,46 @@
-# advice-generator
+# Frontend Mentor - Advice generator app solution
 
-## Project setup
-```
-yarn install
-```
+This is a solution to the [Advice generator app challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/advice-generator-app-QdUG-13db). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
+## Table of contents
 
-### Compiles and minifies for production
-```
-yarn build
-```
+- [Overview](#overview)
+  - [The challenge](#the-challenge)
+  - [Screenshot](#screenshot)
+  - [Links](#links)
+- [My process](#my-process)
+  - [Built with](#built-with)
+- [Author](#author)
 
-### Lints and fixes files
-```
-yarn lint
-```
+## Overview
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### The challenge
+
+Users should be able to:
+
+- View the optimal layout for the app depending on their device's screen size
+- See hover states for all interactive elements on the page
+- Generate a new piece of advice by clicking the dice icon
+
+### Screenshot
+
+![screenshot](./public/assets/screenshot.png)
+
+### Links
+
+- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- [Live Site](https://mss-advice-generator.vercel.app/)
+
+### Built with
+
+- Vue
+- Vuex
+- TailwindCSS
+- Flexbox
+- Mobile-first workflow
+
+## Author
+
+- Github - [@moniquedsilva](https://github.com/moniquedsilva)
+- Frontend Mentor - [@moniquedsilva](https://www.frontendmentor.io/profile/moniquedsilva)
+- Twitter - [@moniquesdsilva](https://twitter.com/moniquesdsilva)
